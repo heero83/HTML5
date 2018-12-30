@@ -5,24 +5,24 @@ Lessons and exercises of the Introduction of HTML5 course dictated by Eric Tirad
 
 ### **Lessons**:
 
-**Lesson 1**:  Layout Elelements
+1. **Lesson 1**:  Layout Elelements
 
-**Lesson 2**: Head Elelemnts and Scripts
+2. **Lesson 2**: Head Elelemnts and Scripts
 
-**Lesson 3**: Layout Elelemnts
+3. **Lesson 3**: Layout Elelemnts
 
-**Lesson 4**: Figure and Image Elements
+4. **Lesson 4**: Figure and Image Elements
 
-**Lesson 5**: Embedding Videos
+5. **Lesson 5**: Embedding Videos
 
-**Lesson 6**: Navbar abnd List Items
+6. **Lesson 6**: Navbar abnd List Items
 
-**Lesson 7**: Headings
+7. **Lesson 7**: Headings
 
-**Lesson 8**: Pagragraphs and Text Formatting 
+8. **Lesson 8**: Pagragraphs and Text Formatting 
 
-**Lesson 9**: Text Formatting - Part *
+9. **Lesson 9**: Text Formatting - Part *
 
-**Lesson 10**: Tables
+10. **Lesson 10**: Tables
 
-**Lesson 11**: Page Linking and Final Touches
+11. **Lesson 11**: Page Linking and Final Touches
